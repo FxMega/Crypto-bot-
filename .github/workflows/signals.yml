@@ -1,3 +1,4 @@
+
 name: signals
 
 on:
@@ -7,6 +8,9 @@ on:
     inputs:
       dry_run:
         description: "1 = print only, send nothing"
+        default: "0"
+      status:
+        description: "1 = show rule checks per coin"
         default: "0"
 
 permissions:
@@ -27,7 +31,7 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python bot.py
+      - run: python bot.py ${{ inputs.status == '1' && '--status' || '' }}
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           DRY_RUN: ${{ inputs.dry_run || '0' }}
