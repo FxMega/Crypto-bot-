@@ -1,0 +1,29 @@
+{
+ "open": [],
+ "seen": {},
+ "news": {
+  "fetched": 1794071747.8334453,
+  "events": [
+   {
+    "ts": 1793718960.0,
+    "cur": "USD",
+    "title": "Congressional Elections"
+   },
+   {
+    "ts": 1793971800.0,
+    "cur": "USD",
+    "title": "Average Hourly Earnings m/m"
+   },
+   {
+    "ts": 1793971800.0,
+    "cur": "USD",
+    "title": "Non-Farm Employment Change"
+   },
+   {
+    "ts": 1793971800.0,
+    "cur": "USD",
+    "title": "Unemployment Rate"
+   }
+  ]
+ }
+}
