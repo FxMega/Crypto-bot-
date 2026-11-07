@@ -1,26 +1,6 @@
 {
  "open": [
   {
-   "sym": "DOGE",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CSD",
-   "setup_t": 1794078000000,
-   "entry": 0.07184,
-   "sl": 0.07206910714285715,
-   "be_at": 0.07161089285714285,
-   "tp1_px": 0.07149633928571428,
-   "tp2_px": 0.07115267857142855,
-   "chase": 0.07172544642857143,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "DOGE|SELL|1794078000000",
-   "opened": 1794079682.5824077,
-   "checked": 1794085860000,
-   "be": true,
-   "tp1": true
-  },
-  {
    "sym": "NEAR",
    "side": "SELL",
    "grade": "A+",
@@ -36,7 +16,7 @@
    "news_checked": true,
    "id": "NEAR|SELL|1794078000000",
    "opened": 1794079682.5824077,
-   "checked": 1794085860000,
+   "checked": 1794087720000,
    "be": true,
    "tp1": true
   }
