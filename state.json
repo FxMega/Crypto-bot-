@@ -1,46 +1,6 @@
 {
  "open": [
   {
-   "sym": "XRP",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794075300000,
-   "entry": 1.1637,
-   "sl": 1.165339285714286,
-   "be_at": 1.162060714285714,
-   "tp1_px": 1.161241071428571,
-   "tp2_px": 1.158782142857142,
-   "chase": 1.162880357142857,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "XRP|SELL|1794075300000",
-   "opened": 1794077421.8169777,
-   "checked": 1794083580000,
-   "be": true,
-   "tp1": true
-  },
-  {
-   "sym": "SOL",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794075300000,
-   "entry": 89.75,
-   "sl": 89.99678571428572,
-   "be_at": 89.50321428571428,
-   "tp1_px": 89.37982142857142,
-   "tp2_px": 89.00964285714284,
-   "chase": 89.62660714285714,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "SOL|SELL|1794075300000",
-   "opened": 1794077421.8169777,
-   "checked": 1794083580000,
-   "be": true,
-   "tp1": false
-  },
-  {
    "sym": "DOGE",
    "side": "SELL",
    "grade": "A+",
@@ -56,9 +16,9 @@
    "news_checked": true,
    "id": "DOGE|SELL|1794078000000",
    "opened": 1794079682.5824077,
-   "checked": 1794083580000,
-   "be": false,
-   "tp1": false
+   "checked": 1794085860000,
+   "be": true,
+   "tp1": true
   },
   {
    "sym": "NEAR",
@@ -76,29 +36,9 @@
    "news_checked": true,
    "id": "NEAR|SELL|1794078000000",
    "opened": 1794079682.5824077,
-   "checked": 1794083580000,
+   "checked": 1794085860000,
    "be": true,
-   "tp1": false
-  },
-  {
-   "sym": "DOT",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794078000000,
-   "entry": 0.901,
-   "sl": 0.9036964285714286,
-   "be_at": 0.8983035714285714,
-   "tp1_px": 0.8969553571428571,
-   "tp2_px": 0.8929107142857142,
-   "chase": 0.8996517857142857,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "DOT|SELL|1794078000000",
-   "opened": 1794079682.5824077,
-   "checked": 1794083580000,
-   "be": true,
-   "tp1": false
+   "tp1": true
   }
  ],
  "seen": {
