@@ -16,27 +16,7 @@
    "news_checked": true,
    "id": "SOL|SELL|1794100500000",
    "opened": 1794104689.7479856,
-   "checked": 1794131100000,
-   "be": false,
-   "tp1": false
-  },
-  {
-   "sym": "BNB",
-   "side": "BUY",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794129300000,
-   "entry": 698.5,
-   "sl": 697.6226785714285,
-   "be_at": 699.3773214285715,
-   "tp1_px": 699.8159821428571,
-   "tp2_px": 701.1319642857144,
-   "chase": 698.9386607142858,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "BNB|BUY|1794129300000",
-   "opened": 1794131221.5714724,
-   "checked": 1794131100000,
+   "checked": 1794133440000,
    "be": false,
    "tp1": false
   }
