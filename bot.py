@@ -150,9 +150,9 @@ def check(sym, side, d15, d1, b15, events, with_news=True):
     btc_ok = bc.iloc[-1] > ema(bc, 50).iloc[-1] and bc.iloc[-1] > bc.iloc[-1 - MOMENTUM_BARS]
 
     chk = {"crt_csd": bool(setup), "above_ema50": bool(price > e50), "m1_break": fresh,
-           "btc_filter": bool(btc_ok), "risk_ok": False, "ema50>200 (bonus)": bool(e50 > e200)}
+           "btc_filter": bool(btc_ok), "risk_ok": False, "ema50>200": bool(e50 > e200)}
     sig = None
-    if setup and fresh and chk["above_ema50"] and btc_ok:
+    if setup and fresh and chk["above_ema50"] and chk["ema50>200"] and btc_ok:
         a = atr(d15).iloc[-1]
         sl = setup[2] - SL_BUFFER_ATR * a
         risk = price - sl
@@ -161,7 +161,7 @@ def check(sym, side, d15, d1, b15, events, with_news=True):
             news = news_flag(events) if with_news else None
             blocked = news is True or (news is None and with_news and NEWS_REQUIRED)
             if not blocked:
-                grade = "A+" if chk["ema50>200 (bonus)"] else "BUY"
+                grade = "A+"
                 lv = lambda r: sg * (price + r * risk)
                 sig = dict(sym=sym, side=side, grade=grade, setup=setup[0], setup_t=setup[1],
                            entry=sg * price, sl=sg * sl, be_at=lv(BE_R), tp1_px=lv(TP1_R),
