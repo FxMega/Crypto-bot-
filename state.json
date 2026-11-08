@@ -1,26 +1,6 @@
 {
  "open": [
   {
-   "sym": "XRP",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794101400000,
-   "entry": 1.1581,
-   "sl": 1.1627696428571428,
-   "be_at": 1.153430357142857,
-   "tp1_px": 1.1510955357142856,
-   "tp2_px": 1.1440910714285712,
-   "chase": 1.1557651785714285,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "XRP|SELL|1794101400000",
-   "opened": 1794103529.1000667,
-   "checked": 1794107520000,
-   "be": false,
-   "tp1": false
-  },
-  {
    "sym": "SOL",
    "side": "SELL",
    "grade": "A+",
@@ -36,7 +16,7 @@
    "news_checked": true,
    "id": "SOL|SELL|1794100500000",
    "opened": 1794104689.7479856,
-   "checked": 1794107520000,
+   "checked": 1794110280000,
    "be": false,
    "tp1": false
   }
