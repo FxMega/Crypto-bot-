@@ -16,29 +16,9 @@
    "news_checked": true,
    "id": "SOL|SELL|1794100500000",
    "opened": 1794104689.7479856,
-   "checked": 1794122700000,
+   "checked": 1794125820000,
    "be": false,
    "tp1": false
-  },
-  {
-   "sym": "DOGE",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794116700000,
-   "entry": 0.07121,
-   "sl": 0.0712975,
-   "be_at": 0.07112249999999999,
-   "tp1_px": 0.07107875,
-   "tp2_px": 0.07094749999999998,
-   "chase": 0.07116624999999999,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "DOGE|SELL|1794116700000",
-   "opened": 1794118765.7009976,
-   "checked": 1794122700000,
-   "be": true,
-   "tp1": true
   }
  ],
  "seen": {
