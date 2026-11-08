@@ -16,7 +16,7 @@
    "news_checked": true,
    "id": "SOL|SELL|1794100500000",
    "opened": 1794104689.7479856,
-   "checked": 1794118680000,
+   "checked": 1794122700000,
    "be": false,
    "tp1": false
   },
@@ -36,9 +36,9 @@
    "news_checked": true,
    "id": "DOGE|SELL|1794116700000",
    "opened": 1794118765.7009976,
-   "checked": 1794118680000,
-   "be": false,
-   "tp1": false
+   "checked": 1794122700000,
+   "be": true,
+   "tp1": true
   }
  ],
  "seen": {
