@@ -16,7 +16,27 @@
    "news_checked": true,
    "id": "SOL|SELL|1794100500000",
    "opened": 1794104689.7479856,
-   "checked": 1794115800000,
+   "checked": 1794118680000,
+   "be": false,
+   "tp1": false
+  },
+  {
+   "sym": "DOGE",
+   "side": "SELL",
+   "grade": "A+",
+   "setup": "CRT",
+   "setup_t": 1794116700000,
+   "entry": 0.07121,
+   "sl": 0.0712975,
+   "be_at": 0.07112249999999999,
+   "tp1_px": 0.07107875,
+   "tp2_px": 0.07094749999999998,
+   "chase": 0.07116624999999999,
+   "rr": 3.0,
+   "news_checked": true,
+   "id": "DOGE|SELL|1794116700000",
+   "opened": 1794118765.7009976,
+   "checked": 1794118680000,
    "be": false,
    "tp1": false
   }
@@ -33,30 +53,31 @@
   "SOL|BUY|1794092400000": 1794095515.6581903,
   "XRP|SELL|1794101400000": 1794103529.1000667,
   "DOGE|SELL|1794103200000": 1794104689.7479856,
-  "SOL|SELL|1794100500000": 1794104689.7479856
+  "SOL|SELL|1794100500000": 1794104689.7479856,
+  "DOGE|SELL|1794116700000": 1794118765.7009976
  },
  "news": {
-  "fetched": 1794107607.5716908,
+  "fetched": 1794118765.7000594,
   "events": [
    {
-    "ts": 1793718960.0,
+    "ts": 1794317400.0,
     "cur": "USD",
-    "title": "Congressional Elections"
+    "title": "Core CPI m/m"
    },
    {
-    "ts": 1793971800.0,
+    "ts": 1794317400.0,
     "cur": "USD",
-    "title": "Average Hourly Earnings m/m"
+    "title": "CPI m/m"
    },
    {
-    "ts": 1793971800.0,
+    "ts": 1794576600.0,
     "cur": "USD",
-    "title": "Non-Farm Employment Change"
+    "title": "Core PPI m/m"
    },
    {
-    "ts": 1793971800.0,
+    "ts": 1794576600.0,
     "cur": "USD",
-    "title": "Unemployment Rate"
+    "title": "PPI m/m"
    }
   ]
  }
