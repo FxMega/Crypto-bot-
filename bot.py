@@ -142,17 +142,18 @@ def check(sym, side, d15, d1, b15, events, with_news=True):
     if sg == -1:
         d15, d1, b15 = mirror(d15), mirror(d1), mirror(b15)
     price = d1["c"].iloc[-1]
-    e50, e200 = ema(d15["c"], 50).iloc[-1], ema(d15["c"], 200).iloc[-1]
+    e50 = ema(d15["c"], 50).iloc[-1]
     setup = find_setup(d15)
     brk = m1_break(d1, setup[1]) if setup else None
     fresh = bool(brk) and d1["t"].iloc[-1] - brk[0] <= BREAK_MAX_AGE_MIN * 60000
     bc = b15["c"]
-    btc_ok = bc.iloc[-1] > ema(bc, 50).iloc[-1] and bc.iloc[-1] > bc.iloc[-1 - MOMENTUM_BARS]
+    be50, be200 = ema(bc, 50).iloc[-1], ema(bc, 200).iloc[-1]   # Bitcoin's 50 / 200 EMA
+    btc_ok = bc.iloc[-1] > be50 and bc.iloc[-1] > bc.iloc[-1 - MOMENTUM_BARS]
 
     chk = {"crt_csd": bool(setup), "above_ema50": bool(price > e50), "m1_break": fresh,
-           "btc_filter": bool(btc_ok), "risk_ok": False, "ema50>200": bool(e50 > e200)}
+           "btc_filter": bool(btc_ok), "risk_ok": False, "btc_ema50>200": bool(be50 > be200)}
     sig = None
-    if setup and fresh and chk["above_ema50"] and chk["ema50>200"] and btc_ok:
+    if setup and fresh and chk["above_ema50"] and chk["btc_ema50>200"] and btc_ok:
         a = atr(d15).iloc[-1]
         sl = setup[2] - SL_BUFFER_ATR * a
         risk = price - sl
