@@ -16,8 +16,8 @@
    "news_checked": true,
    "id": "DOT|SELL|1794164400000",
    "opened": 1794166776.0197852,
-   "checked": 1794166680000,
-   "be": false,
+   "checked": 1794168840000,
+   "be": true,
    "tp1": false
   }
  ],
