@@ -16,7 +16,7 @@
    "news_checked": true,
    "id": "BNB|SELL|1794180600000",
    "opened": 1794184589.7931817,
-   "checked": 1794223560000,
+   "checked": 1794226920000,
    "be": true,
    "tp1": true
   },
@@ -36,7 +36,7 @@
    "news_checked": true,
    "id": "XRP|SELL|1794180600000",
    "opened": 1794184589.7931817,
-   "checked": 1794223560000,
+   "checked": 1794226920000,
    "be": true,
    "tp1": true
   },
@@ -56,7 +56,7 @@
    "news_checked": true,
    "id": "SOL|SELL|1794214800000",
    "opened": 1794217541.9234388,
-   "checked": 1794223560000,
+   "checked": 1794226920000,
    "be": false,
    "tp1": false
   }
