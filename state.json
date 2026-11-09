@@ -1,26 +1,6 @@
 {
  "open": [
   {
-   "sym": "BNB",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CSD",
-   "setup_t": 1794180600000,
-   "entry": 687.07,
-   "sl": 693.4644642857143,
-   "be_at": 680.6755357142858,
-   "tp1_px": 677.4783035714288,
-   "tp2_px": 667.8866071428574,
-   "chase": 683.8727678571429,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "BNB|SELL|1794180600000",
-   "opened": 1794184589.7931817,
-   "checked": 1794226920000,
-   "be": true,
-   "tp1": true
-  },
-  {
    "sym": "XRP",
    "side": "SELL",
    "grade": "A+",
@@ -36,7 +16,7 @@
    "news_checked": true,
    "id": "XRP|SELL|1794180600000",
    "opened": 1794184589.7931817,
-   "checked": 1794226920000,
+   "checked": 1794231480000,
    "be": true,
    "tp1": true
   },
@@ -56,7 +36,7 @@
    "news_checked": true,
    "id": "SOL|SELL|1794214800000",
    "opened": 1794217541.9234388,
-   "checked": 1794226920000,
+   "checked": 1794231480000,
    "be": false,
    "tp1": false
   }
@@ -104,7 +84,7 @@
   "SOL|SELL|1794214800000": 1794217541.9234388
  },
  "news": {
-  "fetched": 1794217541.9222322,
+  "fetched": 1794231580.929717,
   "events": [
    {
     "ts": 1794317400.0,
