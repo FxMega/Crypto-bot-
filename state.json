@@ -16,29 +16,9 @@
    "news_checked": true,
    "id": "XRP|SELL|1794180600000",
    "opened": 1794184589.7931817,
-   "checked": 1794234840000,
+   "checked": 1794238080000,
    "be": true,
    "tp1": true
-  },
-  {
-   "sym": "SOL",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794214800000,
-   "entry": 86.53,
-   "sl": 87.43089285714287,
-   "be_at": 85.62910714285714,
-   "tp1_px": 85.17866071428571,
-   "tp2_px": 83.82732142857141,
-   "chase": 86.07955357142856,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "SOL|SELL|1794214800000",
-   "opened": 1794217541.9234388,
-   "checked": 1794234840000,
-   "be": false,
-   "tp1": false
   }
  ],
  "seen": {
