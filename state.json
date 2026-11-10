@@ -16,7 +16,7 @@
    "news_checked": true,
    "id": "XRP|SELL|1794180600000",
    "opened": 1794184589.7931817,
-   "checked": 1794280920000,
+   "checked": 1794284100000,
    "be": true,
    "tp1": true
   },
@@ -36,7 +36,7 @@
    "news_checked": true,
    "id": "DOT|SELL|1794246300000",
    "opened": 1794248185.01049,
-   "checked": 1794280980000,
+   "checked": 1794284100000,
    "be": true,
    "tp1": true
   },
@@ -56,7 +56,7 @@
    "news_checked": true,
    "id": "DOGE|SELL|1794275100000",
    "opened": 1794278221.9322839,
-   "checked": 1794280980000,
+   "checked": 1794284100000,
    "be": false,
    "tp1": false
   }
