@@ -16,7 +16,7 @@
    "news_checked": true,
    "id": "XRP|SELL|1794180600000",
    "opened": 1794184589.7931817,
-   "checked": 1794266940000,
+   "checked": 1794268980000,
    "be": true,
    "tp1": true
   },
@@ -36,7 +36,7 @@
    "news_checked": true,
    "id": "DOT|SELL|1794246300000",
    "opened": 1794248185.01049,
-   "checked": 1794266940000,
+   "checked": 1794268980000,
    "be": true,
    "tp1": false
   }
@@ -86,7 +86,7 @@
   "SOL|SELL|1794247200000": 1794248185.01049
  },
  "news": {
-  "fetched": 1794257037.267079,
+  "fetched": 1794269096.1671774,
   "events": [
    {
     "ts": 1794317400.0,
