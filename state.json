@@ -1,26 +1,6 @@
 {
  "open": [
   {
-   "sym": "SOL",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794317400000,
-   "entry": 84.26,
-   "sl": 85.38,
-   "be_at": 83.14000000000001,
-   "tp1_px": 82.58000000000001,
-   "tp2_px": 80.90000000000003,
-   "chase": 83.70000000000002,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "SOL|SELL|1794317400000",
-   "opened": 1794319350.9125438,
-   "checked": 1794400140000,
-   "be": true,
-   "tp1": true
-  },
-  {
    "sym": "BNB",
    "side": "SELL",
    "grade": "A+",
@@ -36,7 +16,7 @@
    "news_checked": true,
    "id": "BNB|SELL|1794322800000",
    "opened": 1794324700.4626782,
-   "checked": 1794400140000,
+   "checked": 1794404520000,
    "be": true,
    "tp1": true
   },
@@ -56,7 +36,7 @@
    "news_checked": true,
    "id": "DOT|SELL|1794323700000",
    "opened": 1794327839.498983,
-   "checked": 1794400140000,
+   "checked": 1794404520000,
    "be": false,
    "tp1": false
   }
@@ -109,7 +89,7 @@
   "DOGE|SELL|1794388500000": 1794390193.2939584
  },
  "news": {
-  "fetched": 1794390193.2927022,
+  "fetched": 1794404635.2077744,
   "events": [
    {
     "ts": 1794317400.0,
