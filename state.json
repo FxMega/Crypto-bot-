@@ -16,7 +16,7 @@
    "news_checked": true,
    "id": "BNB|SELL|1794501000000",
    "opened": 1794504173.510541,
-   "checked": 1794504060000,
+   "checked": 1794506940000,
    "be": false,
    "tp1": false
   },
@@ -36,7 +36,7 @@
    "news_checked": true,
    "id": "DOGE|SELL|1794501000000",
    "opened": 1794504173.510541,
-   "checked": 1794504060000,
+   "checked": 1794506940000,
    "be": false,
    "tp1": false
   },
@@ -56,7 +56,7 @@
    "news_checked": true,
    "id": "NEAR|SELL|1794501000000",
    "opened": 1794504173.510541,
-   "checked": 1794504060000,
+   "checked": 1794506940000,
    "be": false,
    "tp1": false
   },
@@ -76,7 +76,7 @@
    "news_checked": true,
    "id": "DOT|SELL|1794501000000",
    "opened": 1794504173.510541,
-   "checked": 1794504060000,
+   "checked": 1794506940000,
    "be": false,
    "tp1": false
   }
@@ -123,7 +123,7 @@
   "DOT|SELL|1794501000000": 1794504173.510541
  },
  "news": {
-  "fetched": 1794494092.572505,
+  "fetched": 1794507044.202848,
   "events": [
    {
     "ts": 1794317400.0,
