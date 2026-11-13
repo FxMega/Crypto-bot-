@@ -16,27 +16,7 @@
    "news_checked": true,
    "id": "BNB|SELL|1794501000000",
    "opened": 1794504173.510541,
-   "checked": 1794531780000,
-   "be": false,
-   "tp1": false
-  },
-  {
-   "sym": "NEAR",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CSD",
-   "setup_t": 1794501000000,
-   "entry": 3.387,
-   "sl": 3.460089285714286,
-   "be_at": 3.313910714285714,
-   "tp1_px": 3.2773660714285713,
-   "tp2_px": 3.167732142857142,
-   "chase": 3.350455357142857,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "NEAR|SELL|1794501000000",
-   "opened": 1794504173.510541,
-   "checked": 1794531780000,
+   "checked": 1794535380000,
    "be": false,
    "tp1": false
   },
@@ -56,7 +36,7 @@
    "news_checked": true,
    "id": "SOL|SELL|1794508200000",
    "opened": 1794509930.305456,
-   "checked": 1794531780000,
+   "checked": 1794535380000,
    "be": false,
    "tp1": false
   }
