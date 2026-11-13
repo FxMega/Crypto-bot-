@@ -16,8 +16,8 @@
    "news_checked": true,
    "id": "DOGE|SELL|1794581100000",
    "opened": 1794585516.719418,
-   "checked": 1794610920000,
-   "be": false,
+   "checked": 1794613080000,
+   "be": true,
    "tp1": false
   },
   {
@@ -36,7 +36,7 @@
    "news_checked": true,
    "id": "BNB|SELL|1794607200000",
    "opened": 1794608598.1594567,
-   "checked": 1794610920000,
+   "checked": 1794613080000,
    "be": false,
    "tp1": false
   },
@@ -56,8 +56,8 @@
    "news_checked": true,
    "id": "XRP|SELL|1794607200000",
    "opened": 1794608598.1594567,
-   "checked": 1794610920000,
-   "be": false,
+   "checked": 1794613080000,
+   "be": true,
    "tp1": false
   }
  ],
