@@ -1,26 +1,6 @@
 {
  "open": [
   {
-   "sym": "DOT",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1794659400000,
-   "entry": 0.781,
-   "sl": 0.7899464285714286,
-   "be_at": 0.7720535714285715,
-   "tp1_px": 0.7675803571428572,
-   "tp2_px": 0.7541607142857143,
-   "chase": 0.7765267857142857,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "DOT|SELL|1794659400000",
-   "opened": 1794662931.8780186,
-   "checked": 1794671880000,
-   "be": true,
-   "tp1": true
-  },
-  {
    "sym": "XRP",
    "side": "SELL",
    "grade": "A+",
@@ -36,9 +16,9 @@
    "news_checked": true,
    "id": "XRP|SELL|1794667500000",
    "opened": 1794669845.799444,
-   "checked": 1794671880000,
-   "be": false,
-   "tp1": false
+   "checked": 1794673800000,
+   "be": true,
+   "tp1": true
   },
   {
    "sym": "DOGE",
@@ -56,8 +36,8 @@
    "news_checked": true,
    "id": "DOGE|SELL|1794667500000",
    "opened": 1794669845.799444,
-   "checked": 1794671880000,
-   "be": false,
+   "checked": 1794673800000,
+   "be": true,
    "tp1": false
   },
   {
@@ -76,7 +56,47 @@
    "news_checked": true,
    "id": "SOL|SELL|1794667500000",
    "opened": 1794669845.799444,
-   "checked": 1794671880000,
+   "checked": 1794673800000,
+   "be": true,
+   "tp1": false
+  },
+  {
+   "sym": "BNB",
+   "side": "SELL",
+   "grade": "A+",
+   "setup": "CRT",
+   "setup_t": 1794671100000,
+   "entry": 587.25,
+   "sl": 601.38625,
+   "be_at": 573.11375,
+   "tp1_px": 566.045625,
+   "tp2_px": 544.84125,
+   "chase": 580.181875,
+   "rr": 3.0,
+   "news_checked": true,
+   "id": "BNB|SELL|1794671100000",
+   "opened": 1794673922.0585027,
+   "checked": 1794673800000,
+   "be": false,
+   "tp1": false
+  },
+  {
+   "sym": "DOT",
+   "side": "SELL",
+   "grade": "A+",
+   "setup": "CRT",
+   "setup_t": 1794671100000,
+   "entry": 0.749,
+   "sl": 0.77125,
+   "be_at": 0.72675,
+   "tp1_px": 0.715625,
+   "tp2_px": 0.68225,
+   "chase": 0.7378750000000001,
+   "rr": 3.0,
+   "news_checked": true,
+   "id": "DOT|SELL|1794671100000",
+   "opened": 1794673922.0585027,
+   "checked": 1794673800000,
    "be": false,
    "tp1": false
   }
@@ -127,10 +147,12 @@
   "DOT|SELL|1794659400000": 1794662931.8780186,
   "XRP|SELL|1794667500000": 1794669845.799444,
   "DOGE|SELL|1794667500000": 1794669845.799444,
-  "SOL|SELL|1794667500000": 1794669845.799444
+  "SOL|SELL|1794667500000": 1794669845.799444,
+  "BNB|SELL|1794671100000": 1794673922.0585027,
+  "DOT|SELL|1794671100000": 1794673922.0585027
  },
  "news": {
-  "fetched": 1794662931.6870174,
+  "fetched": 1794673921.1279902,
   "events": [
    {
     "ts": 1794317400.0,
