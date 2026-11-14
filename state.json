@@ -16,7 +16,7 @@
    "news_checked": true,
    "id": "XRP|SELL|1794667500000",
    "opened": 1794669845.799444,
-   "checked": 1794673800000,
+   "checked": 1794676260000,
    "be": true,
    "tp1": true
   },
@@ -36,7 +36,7 @@
    "news_checked": true,
    "id": "DOGE|SELL|1794667500000",
    "opened": 1794669845.799444,
-   "checked": 1794673800000,
+   "checked": 1794676260000,
    "be": true,
    "tp1": false
   },
@@ -56,9 +56,9 @@
    "news_checked": true,
    "id": "SOL|SELL|1794667500000",
    "opened": 1794669845.799444,
-   "checked": 1794673800000,
+   "checked": 1794676260000,
    "be": true,
-   "tp1": false
+   "tp1": true
   },
   {
    "sym": "BNB",
@@ -76,7 +76,7 @@
    "news_checked": true,
    "id": "BNB|SELL|1794671100000",
    "opened": 1794673922.0585027,
-   "checked": 1794673800000,
+   "checked": 1794676260000,
    "be": false,
    "tp1": false
   },
@@ -96,7 +96,7 @@
    "news_checked": true,
    "id": "DOT|SELL|1794671100000",
    "opened": 1794673922.0585027,
-   "checked": 1794673800000,
+   "checked": 1794676260000,
    "be": false,
    "tp1": false
   }
