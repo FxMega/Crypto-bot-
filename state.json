@@ -1,9 +1,6 @@
 {
  "open": [],
  "seen": {
-  "BNB|SELL|1794450600000": 1794453634.4047017,
-  "SOL|SELL|1794449700000": 1794453634.4047017,
-  "BNB|SELL|1794470400000": 1794472889.4584458,
   "BNB|SELL|1794484800000": 1794486216.2116354,
   "XRP|SELL|1794487500000": 1794490764.8188357,
   "DOGE|SELL|1794487500000": 1794490764.8188357,
@@ -53,27 +50,27 @@
   "SOL|SELL|1794694500000": 1794698417.2952018
  },
  "news": {
-  "fetched": 1794710948.9608037,
+  "fetched": 1794736681.764305,
   "events": [
    {
-    "ts": 1794317400.0,
+    "ts": 1794848400.0,
     "cur": "USD",
-    "title": "Core CPI m/m"
+    "title": "Fed Chairman Warsh Speaks"
    },
    {
-    "ts": 1794317400.0,
+    "ts": 1794922200.0,
     "cur": "USD",
-    "title": "CPI m/m"
+    "title": "Core Retail Sales m/m"
    },
    {
-    "ts": 1794576600.0,
+    "ts": 1794922200.0,
     "cur": "USD",
-    "title": "Core PPI m/m"
+    "title": "Retail Sales m/m"
    },
    {
-    "ts": 1794576600.0,
+    "ts": 1795028400.0,
     "cur": "USD",
-    "title": "PPI m/m"
+    "title": "FOMC Meeting Minutes"
    }
   ]
  }
