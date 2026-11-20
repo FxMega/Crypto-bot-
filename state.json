@@ -16,9 +16,9 @@
    "news_checked": true,
    "id": "BNB|SELL|1795121100000",
    "opened": 1795124583.2274077,
-   "checked": 1795142160000,
+   "checked": 1795170240000,
    "be": true,
-   "tp1": false
+   "tp1": true
   },
   {
    "sym": "DOGE",
@@ -36,7 +36,7 @@
    "news_checked": true,
    "id": "DOGE|SELL|1795121100000",
    "opened": 1795124583.2274077,
-   "checked": 1795142160000,
+   "checked": 1795170240000,
    "be": false,
    "tp1": false
   },
@@ -56,69 +56,9 @@
    "news_checked": true,
    "id": "NEAR|SELL|1795121100000",
    "opened": 1795124583.2274077,
-   "checked": 1795142160000,
+   "checked": 1795170240000,
    "be": true,
    "tp1": true
-  },
-  {
-   "sym": "XRP",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1795140900000,
-   "entry": 0.951,
-   "sl": 0.9580678571428571,
-   "be_at": 0.9439321428571428,
-   "tp1_px": 0.9403982142857141,
-   "tp2_px": 0.9297964285714284,
-   "chase": 0.9474660714285714,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "XRP|SELL|1795140900000",
-   "opened": 1795142233.0545115,
-   "checked": 1795142160000,
-   "be": false,
-   "tp1": false
-  },
-  {
-   "sym": "DOT",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1795140900000,
-   "entry": 0.699,
-   "sl": 0.7073214285714285,
-   "be_at": 0.6906785714285714,
-   "tp1_px": 0.6865178571428571,
-   "tp2_px": 0.6740357142857142,
-   "chase": 0.6948392857142857,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "DOT|SELL|1795140900000",
-   "opened": 1795142233.0545115,
-   "checked": 1795142160000,
-   "be": false,
-   "tp1": false
-  },
-  {
-   "sym": "SOL",
-   "side": "SELL",
-   "grade": "A+",
-   "setup": "CRT",
-   "setup_t": 1795140900000,
-   "entry": 71.98,
-   "sl": 72.44607142857141,
-   "be_at": 71.5139285714286,
-   "tp1_px": 71.28089285714289,
-   "tp2_px": 70.58178571428577,
-   "chase": 71.7469642857143,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "SOL|SELL|1795140900000",
-   "opened": 1795142233.0545115,
-   "checked": 1795142160000,
-   "be": false,
-   "tp1": false
   }
  ],
  "seen": {
@@ -138,7 +78,7 @@
   "SOL|SELL|1795140900000": 1795142233.0545115
  },
  "news": {
-  "fetched": 1795142232.815928,
+  "fetched": 1795170356.8941152,
   "events": [
    {
     "ts": 1794848400.0,
