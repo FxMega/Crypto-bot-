@@ -1,26 +1,6 @@
 {
  "open": [
   {
-   "sym": "BNB",
-   "side": "BUY",
-   "grade": "A+",
-   "setup": "CSD",
-   "setup_t": 1795657500000,
-   "entry": 558.26,
-   "sl": 555.1410714285714,
-   "be_at": 561.3789285714286,
-   "tp1_px": 562.9383928571428,
-   "tp2_px": 567.6167857142857,
-   "chase": 559.8194642857143,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "BNB|BUY|1795657500000",
-   "opened": 1795659149.4083197,
-   "checked": 1795659060000,
-   "be": false,
-   "tp1": false
-  },
-  {
    "sym": "DOGE",
    "side": "BUY",
    "grade": "A+",
@@ -36,7 +16,7 @@
    "news_checked": true,
    "id": "DOGE|BUY|1795654800000",
    "opened": 1795659149.4083197,
-   "checked": 1795659060000,
+   "checked": 1795690200000,
    "be": false,
    "tp1": false
   },
@@ -56,27 +36,7 @@
    "news_checked": true,
    "id": "DOT|BUY|1795654800000",
    "opened": 1795659149.4083197,
-   "checked": 1795659060000,
-   "be": false,
-   "tp1": false
-  },
-  {
-   "sym": "SOL",
-   "side": "BUY",
-   "grade": "A+",
-   "setup": "CSD",
-   "setup_t": 1795657500000,
-   "entry": 71.31,
-   "sl": 70.71875,
-   "be_at": 71.90125,
-   "tp1_px": 72.196875,
-   "tp2_px": 73.08375000000001,
-   "chase": 71.605625,
-   "rr": 3.0,
-   "news_checked": true,
-   "id": "SOL|BUY|1795657500000",
-   "opened": 1795659149.4083197,
-   "checked": 1795659060000,
+   "checked": 1795690200000,
    "be": false,
    "tp1": false
   }
@@ -97,7 +57,7 @@
   "SOL|BUY|1795657500000": 1795659149.4083197
  },
  "news": {
-  "fetched": 1795659149.4076915,
+  "fetched": 1795690289.6940389,
   "events": [
    {
     "ts": 1795613400.0,
